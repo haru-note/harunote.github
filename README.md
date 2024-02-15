@@ -1,16 +1,32 @@
 ![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
-# Hello World! I'm code villains
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgliderwiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+# 🤔 I’m currently working on
+
+Hello World! 
+<br>
+Hi, I'm Code villain
+<br>
 카카오 백엔드 개발자. 개발 리드 
 
-# Repo
+# ⚡ Work experience
+- KAKAO Corp (2018 ~ Now, Part Leader) 
+- LG Fashion (2017 ~ 2018, Senior Manager)
+- Coupang (2013 ~ 2017, Sr.Software Engineer, L5)
+- Freelance Developer (2008 ~ 2013)
+  + Samsung Electronics OSP 2.5, AA, Manager
+  + SK Telecom T-Gate, AA/TL, Manager 
+  + GS Homeshopping E-Commerce Platform Developement, Manager
+
+  
+
+# 🔭 Repo
 - https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
 - https://github.com/orgs/howlingproject/repositories 기업용 위키 (GliderWiki), Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 - https://github.com/gliderwiki?tab=repositories 기술 정리용 개인 Repo
 
-# Skills 
+# 🌱 Skills 
 
 ## Server-side
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
@@ -32,7 +48,7 @@
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <br/><br/>
 
 
@@ -41,10 +57,10 @@
 
 <br/>
 
-# Contacts  
+# 💬 Contacts  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/performizer/)/)](https://www.linkedin.com/in/performizer/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villainscode@gmail.com)](mailto:villainscode@gmail.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgliderwiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
