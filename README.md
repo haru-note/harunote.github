@@ -6,7 +6,7 @@
 
 Hi, I'm Code-Villain
 <br>
-🤔 I’m currently working on Kakao Corp  
+🤔 I’m currently working on Kakao Corp  
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Part Leader) 
