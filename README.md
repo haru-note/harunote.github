@@ -2,13 +2,11 @@
 
 
 
-# 🤔 I’m currently working on
+# Hello World! 
 
-Hello World! 
+Hi, I'm Code-Villain
 <br>
-Hi, I'm Code villain
-<br>
-카카오 백엔드 개발자. 개발 리드 
+🤔 I’m currently working on Kakao Corp  
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Part Leader) 
