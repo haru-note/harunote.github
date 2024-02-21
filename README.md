@@ -1,12 +1,17 @@
 ![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
 
 
-
 # Hello World! 
-
 Hi, I'm Code-Villain
 <br>
-🤔 I’m currently working on Kakao Corp  
+🤔 I’m currently working on Kakao Corp
+- 10+ years of applicable experience in enterprise software development
+  + Proficiency with server-side languages (Java, Spring)
+
+- Significant experience building high-performance and scalable systems
+  + System architecture design
+  + RDBMS knowledge (Entity design)
+ 
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Part Leader) 
