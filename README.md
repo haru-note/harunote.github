@@ -5,7 +5,7 @@
 Hi, I'm Code-Villain
 <br>
 🤔 I’m currently working on Kakao Corp
-- 10+ years of applicable experience in enterprise software development
+- 15+ years of applicable experience in enterprise software development
   + Proficiency with server-side languages (Java, Spring)
 
 - Significant experience building high-performance and scalable systems
