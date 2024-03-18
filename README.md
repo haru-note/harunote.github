@@ -10,8 +10,8 @@ Hi, I'm Code-Villain
 
 - Significant experience building high-performance and scalable systems
   + System architecture design
-  + RDBMS knowledge (Entity design)
- 
+  + RDBMS knowledge (Entity design) 
+
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Part Leader) 
@@ -22,7 +22,7 @@ Hi, I'm Code-Villain
   + SK Telecom T-Gate, AA/TL, Manager 
   + GS Homeshopping E-Commerce Platform Developement, Manager
 
-  
+# 📖 Book  
 
 # 🔭 Repo
 - https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
