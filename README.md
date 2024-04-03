@@ -21,6 +21,18 @@ Hi, I'm Code-Villain
   + Samsung Electronics OSP 2.5, AA, Manager
   + SK Telecom T-Gate, AA/TL, Manager 
   + GS Homeshopping E-Commerce Platform Developement, Manager
+- Web Application Server Technical Support Engineer (2007)
+- Pharmaceutical Company IT Support Specialist (2005 ~ 2007)
+
+
+# 👣 Professional Experience 
+- Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
+- Book (Negotiating a Higher Salary: A Developer's Interview Guide, Hanbit Media), Author
+  + ISBN10 - 9791169212199
+  + 2024, 03, 25
+  + Yes24 - https://www.yes24.com/Product/Goods/125554439
+  + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
+
 
 # 📖 Book
 ### [연봉 앞자리를 바꾸는] 개발자 기술 면접 노트 
