@@ -28,7 +28,7 @@ Hi, I'm Code-Villain
 # 👣 Professional Experience 
 ### - Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 ### - Book (Negotiating a Higher Salary: A Developer's Interview Guide, Hanbit Media), Author, 2024, 03, 25
-  + ISBN10 - 9791169212199
+  + ISBN - 9791169212199
   + Yes24 - https://www.yes24.com/Product/Goods/125554439
   + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
 
