@@ -1,4 +1,4 @@
-![kyobo_book_1](https://github.com/haru-note/harunote.github/assets/2909102/ac808870-e3d9-424a-8589-de93a6266682)![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
+![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
 
 
 # Hello World! 
