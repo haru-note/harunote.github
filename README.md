@@ -31,7 +31,7 @@ Hi, I'm Code-Villain
   + ISBN - 9791169212199
   + Yes24 - https://www.yes24.com/Product/Goods/125554439
   + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756 (real-time 1ST Rank IT/Computer category 2024/04/07)
- <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png" width="350" />   
+ <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png" width="450" />   
 
 
 # 📖 Book
