@@ -30,7 +30,7 @@ Hi, I'm Code-Villain
 ### - Book (Negotiating a Higher Salary: A Developer's Interview Guide, Hanbit Media), Author, 2024, 03, 25
   + ISBN - 9791169212199
   + Yes24 - https://www.yes24.com/Product/Goods/125554439
-  + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756 (real-time 1ST Rank IT/Computer category 2024/04/07) [참고]([https://www.google.com/images/google_logo.png](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
+  + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756 (real-time 1ST Rank IT/Computer category 2024/04/07) [참고](https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png)
 
 
 # 📖 Book
