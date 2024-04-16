@@ -1,4 +1,4 @@
-![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
+![kyobo_book_1](https://github.com/haru-note/harunote.github/assets/2909102/ac808870-e3d9-424a-8589-de93a6266682)![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
 
 
 # Hello World! 
@@ -30,13 +30,14 @@ Hi, I'm Code-Villain
 ### - Book (Negotiating a Higher Salary: A Developer's Interview Guide, Hanbit Media), Author, 2024, 03, 25
   + ISBN - 9791169212199
   + Yes24 - https://www.yes24.com/Product/Goods/125554439
-  + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756
+  + KyoboBooks - https://product.kyobobook.co.kr/detail/S000212738756 (real-time 1ST Rank IT/Computer category 2024/04/07)
+ <img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/kyobo_book_1.png" width="350" />   
 
 
 # 📖 Book
 ### [연봉 앞자리를 바꾸는] 개발자 기술 면접 노트 
 ######  2024.03.20 한빛미디어 이남희 지음
-<img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" />
+<img src="https://raw.githubusercontent.com/haru-note/harunote.github/main/image/book.jpg" width="450" />
 
 
 # 목차 
